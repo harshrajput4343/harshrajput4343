@@ -61,8 +61,24 @@ Leadership • Problem Solving • Critical Thinking • Collaboration • Commu
 
 ---
 
+---
+
+### 💬 [Waste-Detection-Using-yolo-v5:](https://github.com/harshrajput4343/Waste-Detection-Using-yolo-v5)
+**Tech Stack:** YOLOv5, Python, OpenCV, Docker, AWS, Azure 
+- Implemented an end-to-end object detection system using YOLOv5; performed dataset annotation,
+ preprocessing, and model training achieving 18% higher detection accuracy through fine-tuning and
+ augmentation.  
+- Built modular ML pipeline for data ingestion, validation, training, and prediction with integrated logging,
+ exception handling, and configuration tracking for maintainable workflows
+-  Containerized the application using Docker and implemented CI/CD automation with AWS CodePipeline and
+ Azure DevOps enabling scalable real-time model deployment.
+- Optimized inference latency by 35% through parallel processing and model compression techniques ensuring
+ efficient production performance.
+
+---
+
 ### 💬 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi)
-**Tech Stack:** Gemini AI, LangChain, Pinecone, Flask, AWS  
+**Tech Stack:** Gemini AI, LangChain, Pinecone, Flask, AWS 
 - Designed a **production-grade GenAI chatbot** for real-time healthcare interaction.  
 - Integrated **LangChain** with **Gemini 2.5 Pro** for conversational reasoning.  
 - Deployed on **AWS EC2** with **CI/CD pipelines**, achieving 99% uptime and low latency.  
