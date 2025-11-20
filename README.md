@@ -1,7 +1,7 @@
 # Hi, I'm Harsh Kumar 👋
 
 **Aspiring AI Engineer | Data Science & Machine Learning Enthusiast | Full Stack Developer (MERN + GenAI)**  
-📍 B.Tech in Electronics & Communication Engineering @ IIIT Sri City (2022–2026)  
+📍 B.Tech in Electronics & Communication Engineering @iiitSriCity, IIIT Sri City (2022–2026)  
 📫 [harshkumarsingh4343@gmail.com](mailto:harshkumarsingh4343@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/harshkumar4343) | [GitHub](https://github.com/harshrajput4343)
 
