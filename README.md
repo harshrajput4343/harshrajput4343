@@ -1,148 +1,162 @@
 # Hi, I'm Harsh Kumar 👋
 
-**Aspiring AI Engineer | Data Science & Machine Learning Enthusiast | Full Stack Developer (MERN + GenAI)**  
-📍 B.Tech in Electronics & Communication Engineering @iiitSriCity, IIIT Sri City (2022–2026)  
-📫 [harshkumarsingh4343@gmail.com](mailto:harshkumarsingh4343@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshkumar4343) | [GitHub](https://github.com/harshrajput4343)
+**AI Engineer | Full-Stack Developer | Machine Learning Researcher**  
+📍 B.Tech in Electronics & Communication Engineering @ IIIT Sri City (2022–2026) | CGPA: 7.5  
+📫 [harsh.k22@iiits.in](mailto:harsh.k22@iiits.in) | [harshkumarsingh4343@gmail.com](mailto:harshkumarsingh4343@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshkumar4343) | [Portfolio](https://github.com/harshrajput4343)
 
 ---
 
 ## 💡 About Me
-I'm a passionate developer and researcher exploring the convergence of **AI, Data Analytics, and Cloud Infrastructure**.  
-I focus on building **scalable ML systems**, **AI-driven applications**, and **end-to-end full-stack solutions** leveraging deep learning and modern frameworks.
 
-My current work lies at the intersection of **IoT anomaly detection, vector databases, and generative AI systems**.  
-I aim to create systems that bridge intelligent computation with practical real-world applications.
+I'm a passionate **AI Engineer** and **Full-Stack Developer** building **production-grade ML systems** and **intelligent applications**. My work focuses on:
+
+- 🤖 **LLM-powered applications** with RAG and multimodal AI
+- 🔒 **IoT anomaly detection** using deep learning and attention mechanisms
+- ⚡ **Scalable backend systems** with FastAPI, Node.js, and cloud infrastructure
+- 🎨 **Modern full-stack apps** using Next.js, React, and TypeScript
+
+Currently working as a **Research Assistant** at IIIT Sri City, deploying production APIs for IoT security systems handling **10K+ daily requests**.
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages**  
-`Python` • `C/C++` • `JavaScript` • `SQL` • `R`
+`Python` • `JavaScript` • `TypeScript` • `C/C++` • `SQL`
 
-**Libraries & Frameworks**  
-`LangChain` • `LlamaIndex` • `TensorFlow` • `Scikit-learn` • `HuggingFace Transformers`  
-`React` • `Next.js` • `Node.js` • `Express.js` • `Tailwind CSS` • `Streamlit`
+**AI & Machine Learning**  
+`LangChain` • `GPT-4` • `Gemini` • `TensorFlow` • `PyTorch` • `Scikit-learn`  
+`HuggingFace Transformers` • `YOLOv5` • `XGBoost` • `MLflow`
 
-**Data & Analytics**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Tableau` • `Power BI`  
-`MLflow` • `Apache Spark` • `Airflow`
+**Backend & APIs**  
+`FastAPI` • `Node.js` • `Express.js` • `Flask` • `REST APIs` • `WebSockets`
 
-**Databases**  
-`MySQL` • `PostgreSQL` • `MongoDB` • `Pinecone` • `ChromaDB` • `Weaviate`
+**Frontend**  
+`React` • `Next.js 14` • `TypeScript` • `Tailwind CSS` • `Zustand` • `Vite`
+
+**Databases & Vector Stores**  
+`PostgreSQL` • `MongoDB` • `Redis` • `Supabase` • `Pinecone` • `ChromaDB`
 
 **Cloud & DevOps**  
-`AWS (EC2, S3, Lambda)` • `Docker` • `Git/GitHub` • `CI/CD` • `JIRA`
+`AWS (Lambda, S3, EC2, SageMaker, CloudFront)` • `Docker` • `CI/CD` • `GitHub Actions` • `Grafana`
 
-**Soft Skills**  
-Leadership • Problem Solving • Critical Thinking • Collaboration • Communication
-
----
-
-## 🧠 Research Experience
-
-### Research Assistant — IIIT Sri City (Aug 2024 – Present)
-**Project:** Hybrid Intrusion and Anomaly Detection for IoT Systems  
-- Built a **CNN + Attention-based model** improving robustness by 15% on the TON-IoT dataset.  
-- Performed **feature engineering, EDA, and threshold tuning** to reduce false positives by 25%.  
-- Developed reproducible ML pipelines with **MLflow** and maintained experiment tracking.  
-- Authored and formatted research documentation for **conference submission**.  
+**Data Science**  
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Tableau` • `Power BI`
 
 ---
 
-## 🧩 Major Projects
+## 🧠 Professional Experience
 
-### 🛒 [QuickCart – E-commerce Web App](https://new-quickcart.vercel.app/)
-**Tech Stack:** Next.js, React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Vercel  
-- Built a fully responsive and dynamic shopping platform with modular UI and optimized SSR.  
-- Implemented cart management, category filters, and lazy-loading for faster interaction.  
-- Ensured scalability and performance optimization across devices.
+### Research Assistant — IIIT Sri City (June 2025 – August 2025)
+**Python and AI Backend Development**
+- Deployed **FastAPI production APIs** for IoT anomaly detection serving **10K+ daily requests**
+- Built **CNN + Attention-based models** with real-time monitoring using XGBoost
+- Created scalable data preprocessing pipelines for high-volume sensor and network data
+- Developed **MLflow experiment tracking** and model versioning for reproducible deployments
 
----
-
----
-
-### 💬 [Waste-Detection-Using-yolo-v5:](https://github.com/harshrajput4343/Waste-Detection-Using-yolo-v5)
-**Tech Stack:** YOLOv5, Python, OpenCV, Docker, AWS, Azure 
-- Implemented an end-to-end object detection system using YOLOv5; performed dataset annotation,
- preprocessing, and model training achieving 18% higher detection accuracy through fine-tuning and
- augmentation.  
-- Built modular ML pipeline for data ingestion, validation, training, and prediction with integrated logging,
- exception handling, and configuration tracking for maintainable workflows
--  Containerized the application using Docker and implemented CI/CD automation with AWS CodePipeline and
- Azure DevOps enabling scalable real-time model deployment.
-- Optimized inference latency by 35% through parallel processing and model compression techniques ensuring
- efficient production performance.
+### Data Science Intern — CodeClause (Dec 2025 – Jan 2026)
+- Configured **AWS S3** buckets and **SageMaker Ground Truth** for ML data labeling workflows
+- Deployed **Lambda functions** for preprocessing with IAM roles and **Step Functions** orchestration
+- Built end-to-end production ML pipeline integrating S3, Lambda, and Step Functions
 
 ---
 
-### 💬 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi)
-**Tech Stack:** Gemini AI, LangChain, Pinecone, Flask, AWS 
-- Designed a **production-grade GenAI chatbot** for real-time healthcare interaction.  
-- Integrated **LangChain** with **Gemini 2.5 Pro** for conversational reasoning.  
-- Deployed on **AWS EC2** with **CI/CD pipelines**, achieving 99% uptime and low latency.  
-- Implemented vector-based memory search using **Pinecone** with optimized retrieval.
+## 🚀 Featured Projects
 
----
+### 💬 [MultiGPT](https://github.com/harshrajput4343/MultiGPT) — Multimodal LLM Router
+**Tech Stack:** React 19, TypeScript, Supabase, PostgreSQL, OpenRouter API, Zustand, Tailwind CSS  
+- Architected intelligent chat platform routing queries across **6 AI models** (Gemma, Nemotron, GLM)
+- Built full-stack app with **JWT authentication** and **Row-Level Security** policies
+- Implemented **real-time streaming responses** and reduced query time by **40%**
+- Features: tag search, markdown rendering, syntax-highlighted code blocks, sharing
+
+### 📋 [FlowLoG](https://github.com/harshrajput4343/FlowLoG) — Full-Stack Kanban Platform
+**Tech Stack:** Next.js 14, TypeScript, Express.js, Prisma ORM, PostgreSQL  
+- Built Kanban board with drag-and-drop and **real-time task management**
+- Architected **RESTful APIs** with Prisma ORM for relational data management
+- Designed card modals with checklists, labels, and member assignment for collaboration
+
+### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi)
+**Tech Stack:** GPT-4, Gemini, LangChain, Pinecone, Flask, AWS  
+- Built production-grade healthcare assistant with **RAG** and **Pinecone** vector search
+- Designed **LangChain pipelines** for document ingestion and semantic retrieval
+- Deployed **Flask APIs** with caching, logging, and error handling on **AWS**
+- Achieved **99% uptime** with CI/CD pipelines using GitHub Actions
+
+### 🗑️ [Waste Detection Using YOLOv5](https://github.com/harshrajput4343/Waste-Detection-Using-yolo-v5)
+**Tech Stack:** YOLOv5, Python, OpenCV, Docker, AWS, Azure  
+- Achieved **18% higher detection accuracy** through fine-tuning and augmentation
+- Built modular ML pipeline with logging, exception handling, and configuration tracking
+- Containerized with **Docker** and implemented **CI/CD** with AWS CodePipeline and Azure DevOps
+- Optimized inference latency by **35%** through parallel processing and model compression
+
+### 🛒 [QuickCart](https://new-quickcart.vercel.app/) — E-commerce Platform
+**Tech Stack:** Next.js, React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
+- Built fully responsive shopping platform with **Server-Side Rendering (SSR)**
+- Implemented cart management, category filters, and lazy-loading for performance
+- Optimized for scalability across all devices with modular UI architecture
 
 ### 📚 [Book Recommendation System](https://github.com/harshrajput4343/books-recommendation-system)
 **Tech Stack:** Python, Scikit-learn, Streamlit, AWS, Docker  
-- Built a collaborative filtering model using **KNN + cosine similarity** for personalized recommendations.  
-- Processed 200+ books and 50+ user ratings from Kaggle datasets.  
-- Deployed the interactive recommender as a **Streamlit app on AWS** using Docker containers.
+- Built collaborative filtering model using **KNN + cosine similarity**
+- Processed **200+ books** and **50+ user ratings** from Kaggle datasets
+- Deployed interactive Streamlit app on AWS using Docker containers
 
 ---
 
-### 🏥 [Healthcare Analytics Project](https://github.com/harshrajput4343/Healthcare-Analytics-Project)
-**Tech Stack:** Python, SQL, Pandas, NumPy, Tableau  
-- Analyzed **9,200+ patient records** to identify correlations between wait times and satisfaction.  
-- Created **interactive dashboards** with Tableau and automated reporting workflows.  
-- Reduced manual analysis time by 80% through SQL automation and validation scripts.
+## 🏆 Certifications
+
+- **Oracle Cloud Infrastructure 2025 – Generative AI Professional** | [Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7A45367360B3AD6BFEA35162D6B5BE7E2B4581E2DA6C4EBFC4ECA9F209105160)
+- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate** | [Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=82FF079B9D5F330A950031211F2E2DEF90432C0BAAC4573314D9AF52B3C3543F)
+- **Complete Data Science, ML, DL, NLP Bootcamp** — Krish Naik (Udemy) | [Certificate](https://www.udemy.com/certificate/UC-18ea70c9-36dd-4e30-aa21-e845271570e4/)
 
 ---
 
-## 🧾 Certifications
+## 🎯 Achievements
 
-- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**  
-  [View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=82FF079B9D5F330A950031211F2E2DEF90432C0BAAC4573314D9AF52B3C3543F)  
-- **Oracle Cloud Infrastructure 2025 – Generative AI Professional**  
-  [View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7A45367360B3AD6BFEA35162D6B5BE7E2B4581E2DA6C4EBFC4ECA9F209105160)  
-- **Complete Data Science, ML, DL, NLP Bootcamp — Krish Naik (Udemy)**  
-  [View Certificate](https://www.udemy.com/certificate/UC-18ea70c9-36dd-4e30-aa21-e845271570e4/)
+- 🏏 **Captain**, IIIT Sri City Cricket Team (2024–2025) — Led team strategy and decision-making
+- 🎪 **Events Coordinator** at Abhisarga (2024) — Coordinated 15+ technical events with 1,500+ participants
+- 💻 Solved **250+ problems** on LeetCode/GeeksforGeeks
+- 🚀 Led **6+ full-stack projects** from architecture to production deployment
 
 ---
 
-## 🏆 Achievements
+## 📈 GitHub Stats
 
-- **Captain**, IIIT Sri City Cricket Team (2024–25)  
-- Led 6+ tech projects with full lifecycle ownership from architecture to deployment.  
-- Consistently delivered optimized, well-documented, and production-ready solutions.
+<div align="center">
 
----
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrajput4343&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-## 🧭 Interests
-- **Machine Learning & Deep Learning Research**
-- **AI-driven Application Development**
-- **Data Visualization & Storytelling**
-- **Cloud-Native ML Systems**
-- **Edge AI and IoT Security**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput4343&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshrajput4343&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🧭 What I'm Working On
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrajput4343&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput4343&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshrajput4343&theme=tokyonight)
+- 🔬 Building production ML systems for IoT anomaly detection
+- 🤖 Developing multimodal AI applications with LLMs
+- ☁️ Learning advanced cloud-native architectures and MLOps
+- 📊 Creating data visualization and analytics dashboards
 
 ---
 
-## 🧩 Let's Connect
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects and discussing AI, full-stack development, or cloud architecture!
+
 💼 [LinkedIn](https://www.linkedin.com/in/harshkumar4343)  
 💻 [GitHub](https://github.com/harshrajput4343)  
-✉️ [Email](mailto:harshkumarsingh4343@gmail.com)
+✉️ [Email](mailto:harsh.k22@iiits.in)
 
 ---
 
-> “Code. Train. Deploy. Iterate. Research. Repeat.”
+<div align="center">
+  
+**"Building intelligent systems that bridge AI with real-world impact"**
+
+</div>
