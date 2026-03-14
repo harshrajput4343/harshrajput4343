@@ -13,13 +13,6 @@
   </p>
 </div>
 
-
-**AI Engineer | Full-Stack Developer | Machine Learning Researcher**  
-📍 B.Tech in Electronics & Communication Engineering @ IIIT Sri City (2022–2026) | CGPA: 7.5  
-📫 [harsh.k22@iiits.in](mailto:harsh.k22@iiits.in) | [harshkumarsingh4343@gmail.com](mailto:harshkumarsingh4343@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshkumar4343) | [Portfolio](https://github.com/harshrajput4343)
----
-
 ### 💡 About Me
 I'm a passionate **AI Engineer** building **production-grade ML systems**. Currently a Research Assistant at IIIT Sri City, I specialize in deploying high-concurrency APIs for IoT security.
 
@@ -31,30 +24,14 @@ I'm a passionate **AI Engineer** building **production-grade ML systems**. Curre
 Currently working as a **Research Assistant** at IIIT Sri City, deploying production APIs for IoT security systems handling **10K+ daily requests**.
 
 ---
+### ⚙️ Tech Stack
 
-## ⚙️ Tech Stack
-
-**Languages**  
-`Python` • `JavaScript` • `TypeScript` • `C/C++` • `SQL`
-
-**AI & Machine Learning**  
-`LangChain` • `GPT-4` • `Gemini` • `TensorFlow` • `PyTorch` • `Scikit-learn`  
-`HuggingFace Transformers` • `YOLOv5` • `XGBoost` • `MLflow`
-
-**Backend & APIs**  
-`FastAPI` • `Node.js` • `Express.js` • `Flask` • `REST APIs` • `WebSockets`
-
-**Frontend**  
-`React` • `Next.js 14` • `TypeScript` • `Tailwind CSS` • `Zustand` • `Vite`
-
-**Databases & Vector Stores**  
-`PostgreSQL` • `MongoDB` • `Redis` • `Supabase` • `Pinecone` • `ChromaDB`
-
-**Cloud & DevOps**  
-`AWS (Lambda, S3, EC2, SageMaker, CloudFront)` • `Docker` • `CI/CD` • `GitHub Actions` • `Grafana`
-
-**Data Science**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Tableau` • `Power BI`
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+| **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat) |
 
 ---
 
@@ -134,17 +111,16 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
+### 📊 Performance & Impact
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshrajput4343&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput4343&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrajput4343&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajput4343&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshrajput4343&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput4343&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
