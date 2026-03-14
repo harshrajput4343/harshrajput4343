@@ -75,14 +75,15 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 - Deployed fault-tolerant microservices cluster using Docker Compose orchestrating Kafka, Zookeeper, and Spark workers.
 - Implemented UPSERT logic in PostgreSQL to handle out-of-order events and ensure ACID consistency.
 
-### 🏥 [FinSight-AI](https://github.com/harshrajput4343/FinSight-AI)
+### 🏥 [FinSight-AI](https://github.com/harshrajput4343/FinSight-AI) — LLM-Powered Financial News Analyzer with Multi-Provider RAG Pipeline
 **Tech Stack:**  LangChain, FAISS, Gemini Embeddings, Groq, OpenRouter, Streamlit, Python, Gemma, Llama, Mistral
 - Built a research assistant with RAG, multi-LLM routing, and failover across 3+ LLMs for real-time query processing.
 - Implemented semantic search over financial documents using vector embeddings and FAISS indexing for fast real-time
   context retrieval with source-grounded responses.
 - Built an interactive dashboard with multi-model rotation, retry and fallback logic ensuring 99%+ query reliability
   
-### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi)
+### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi) — 
+LLM-Driven Healthcare Assistant with RAG and API Deployment
 **Tech Stack:** GPT-4, Gemini, LangChain, Pinecone, Flask, AWS  
 - Built production-grade healthcare assistant with **RAG** and **Pinecone** vector search
 - Designed **LangChain pipelines** for document ingestion and semantic retrieval
