@@ -68,7 +68,20 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 - Architected RESTful APIs with Express.js and Prisma ORM for relational data across boards and cards.
 - Designed PostgreSQL schema and RESTful APIs enabling efficient task storage, retrieval, and real-time updates.
 - Designed card modals with checklists, labels, and member assignment for streamlined collaboration.
+  
+### 📋 [Wavekafka](https://github.com/harshrajput4343/WaveKafka) — Distributed Streaming Analytics Pipeline
+**Tech Stack:** Apache Kafka, Spark Structured Streaming, Docker, Docker Compose, PostgreSQL, Zookeeper
+- Architected streaming pipeline processing 10K+ events/sec using Apache Kafka and Spark Structured Streaming.
+- Deployed fault-tolerant microservices cluster using Docker Compose orchestrating Kafka, Zookeeper, and Spark workers.
+- Implemented UPSERT logic in PostgreSQL to handle out-of-order events and ensure ACID consistency.
 
+### 🏥 [FinSight-AI](https://github.com/harshrajput4343/FinSight-AI)
+**Tech Stack:**  LangChain, FAISS, Gemini Embeddings, Groq, OpenRouter, Streamlit, Python, Gemma, Llama, Mistral
+- Built a research assistant with RAG, multi-LLM routing, and failover across 3+ LLMs for real-time query processing.
+- Implemented semantic search over financial documents using vector embeddings and FAISS indexing for fast real-time
+  context retrieval with source-grounded responses.
+- Built an interactive dashboard with multi-model rotation, retry and fallback logic ensuring 99%+ query reliability
+  
 ### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi)
 **Tech Stack:** GPT-4, Gemini, LangChain, Pinecone, Flask, AWS  
 - Built production-grade healthcare assistant with **RAG** and **Pinecone** vector search
