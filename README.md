@@ -46,7 +46,7 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 - Developed **MLflow** experiment tracking and model versioning pipelines for reproducible and reliable deployments
 
 ### Data Science Intern — CodeClause 
-- Designed *"*AWS S3** architecture managing 3-stage datasets (raw, labeled, processed) for scalable cloud data pipelines.
+- Designed **AWS S3** architecture managing 3-stage datasets (raw, labeled, processed) for scalable cloud data pipelines.
 - Labeled and validated 30+ images using **AWS SageMaker Ground Truth** for structured dataset preparation.
 - Developed **3+ AWS** Lambda serverless functions for automated preprocessing and event-driven data workflows.
 - Built cloud workflow integrating 3 AWS services **(S3, Lambda, Step Functions)** with secure IAM access control.
