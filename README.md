@@ -82,7 +82,7 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
   context retrieval with source-grounded responses.
 - Built an interactive dashboard with multi-model rotation, retry and fallback logic ensuring 99%+ query reliability
   
-### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi) — 
+### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi) — LLM-Driven Healthcare Assistant with RAG and API Deployment
 LLM-Driven Healthcare Assistant with RAG and API Deployment
 **Tech Stack:** GPT-4, Gemini, LangChain, Pinecone, Flask, AWS  
 - Built production-grade healthcare assistant with **RAG** and **Pinecone** vector search
