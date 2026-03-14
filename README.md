@@ -1,19 +1,31 @@
-# Hi, I'm Harsh Kumar 👋
+<div align="center">
+  <h1>Hi, I'm Harsh Kumar 👋</h1>
+  <p align="center">
+    <strong>AI Engineer | Full-Stack Developer | Machine Learning Researcher</strong><br />
+    IIIT Sri City (2022–2026) | CGPA: 7.5
+  </p>
+
+  <p align="center">
+    <a href="mailto:harshkumarsingh4343@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/harshkumar4343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/harshrajput4343"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/harshrajput4343"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</div>
+
 
 **AI Engineer | Full-Stack Developer | Machine Learning Researcher**  
 📍 B.Tech in Electronics & Communication Engineering @ IIIT Sri City (2022–2026) | CGPA: 7.5  
 📫 [harsh.k22@iiits.in](mailto:harsh.k22@iiits.in) | [harshkumarsingh4343@gmail.com](mailto:harshkumarsingh4343@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/harshkumar4343) | [Portfolio](https://github.com/harshrajput4343)
-
 ---
 
-## 💡 About Me
+### 💡 About Me
+I'm a passionate **AI Engineer** building **production-grade ML systems**. Currently a Research Assistant at IIIT Sri City, I specialize in deploying high-concurrency APIs for IoT security.
 
-I'm a passionate **AI Engineer** and **Full-Stack Developer** building **production-grade ML systems** and **intelligent applications**. My work focuses on:
-
-- 🤖 **LLM-powered applications** with RAG and multimodal AI
-- 🔒 **IoT anomaly detection** using deep learning and attention mechanisms
-- ⚡ **Scalable backend systems** with FastAPI, Node.js, and cloud infrastructure
+- 🤖 **LLM & RAG:** Expert in multimodal AI and retrieval-augmented generation.
+- 🔒 **IoT Security:** Developing attention-based anomaly detection models.
+- ⚡ **Scalable Systems:** Building backends that handle **10K+ daily requests**.
 - 🎨 **Modern full-stack apps** using Next.js, React, and TypeScript
 
 Currently working as a **Research Assistant** at IIIT Sri City, deploying production APIs for IoT security systems handling **10K+ daily requests**.
