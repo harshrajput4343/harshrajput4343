@@ -64,9 +64,10 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 
 ### 📋 [FlowLoG](https://github.com/harshrajput4343/FlowLoG) — Full-Stack Kanban Project Management & Task Tracking Platform
 **Tech Stack:** Next.js 14, TypeScript, Express.js, Prisma ORM, PostgreSQL  
-- Built Kanban board with drag-and-drop and **real-time task management**
-- Architected **RESTful APIs** with Prisma ORM for relational data management
-- Designed card modals with checklists, labels, and member assignment for collaboration
+- Built Kanban board with Next.js 14, TypeScript, integrated drag-and-drop and real-time task management.
+- Architected RESTful APIs with Express.js and Prisma ORM for relational data across boards and cards.
+- Designed PostgreSQL schema and RESTful APIs enabling efficient task storage, retrieval, and real-time updates.
+- Designed card modals with checklists, labels, and member assignment for streamlined collaboration.
 
 ### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi)
 **Tech Stack:** GPT-4, Gemini, LangChain, Pinecone, Flask, AWS  
@@ -141,7 +142,6 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 ---
 
 ## 📫 Let's Connect!
-
 I'm always open to collaborating on interesting projects and discussing AI, full-stack development, or cloud architecture!
 
 💼 [LinkedIn](https://www.linkedin.com/in/harshkumar4343)  
