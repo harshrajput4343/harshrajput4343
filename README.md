@@ -37,30 +37,31 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 
 ## 🧠 Professional Experience
 
-### Research Assistant — IIIT Sri City (June 2025 – August 2025)
+### Research Assistant — IIIT Sri City 
 **Python and AI Backend Development**
-- Deployed **FastAPI production APIs** for IoT anomaly detection serving **10K+ daily requests**
-- Built **CNN + Attention-based models** with real-time monitoring using XGBoost
-- Created scalable data preprocessing pipelines for high-volume sensor and network data
-- Developed **MLflow experiment tracking** and model versioning for reproducible deployments
+- Developed and deployed **FastAPI** backend services for IoT anomaly detection systems handling **1k+ daily requests**.
+- Created scalable data preprocessing pipelines with **NumPy** and **Pandas** for high-volume sensor and network data.
+- Integrated CNN, attention models, and XGBoost into backend workflows for **real-time prediction** and monitoring.
+- Developed **MLflow** experiment tracking and model versioning pipelines for reproducible and reliable deployments
 
-### Data Science Intern — CodeClause (Dec 2025 – Jan 2026)
-- Configured **AWS S3** buckets and **SageMaker Ground Truth** for ML data labeling workflows
-- Deployed **Lambda functions** for preprocessing with IAM roles and **Step Functions** orchestration
-- Built end-to-end production ML pipeline integrating S3, Lambda, and Step Functions
+### Data Science Intern — CodeClause 
+- Designed *"*AWS S3** architecture managing 3-stage datasets (raw, labeled, processed) for scalable cloud data pipelines.
+- Labeled and validated 30+ images using **AWS SageMaker Ground Truth** for structured dataset preparation.
+- Developed **3+ AWS** Lambda serverless functions for automated preprocessing and event-driven data workflows.
+- Built cloud workflow integrating 3 AWS services **(S3, Lambda, Step Functions)** with secure IAM access control.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💬 [MultiGPT](https://github.com/harshrajput4343/MultiGPT) — Multimodal LLM Router
+### 💬 [MultiGPT](https://github.com/harshrajput4343/MultiGPT) —  Multimodal LLM Router with Full-Stack Chat Interface
 **Tech Stack:** React 19, TypeScript, Supabase, PostgreSQL, OpenRouter API, Zustand, Tailwind CSS  
 - Architected intelligent chat platform routing queries across **6 AI models** (Gemma, Nemotron, GLM)
 - Built full-stack app with **JWT authentication** and **Row-Level Security** policies
 - Implemented **real-time streaming responses** and reduced query time by **40%**
 - Features: tag search, markdown rendering, syntax-highlighted code blocks, sharing
 
-### 📋 [FlowLoG](https://github.com/harshrajput4343/FlowLoG) — Full-Stack Kanban Platform
+### 📋 [FlowLoG](https://github.com/harshrajput4343/FlowLoG) — Full-Stack Kanban Project Management & Task Tracking Platform
 **Tech Stack:** Next.js 14, TypeScript, Express.js, Prisma ORM, PostgreSQL  
 - Built Kanban board with drag-and-drop and **real-time task management**
 - Architected **RESTful APIs** with Prisma ORM for relational data management
