@@ -56,7 +56,7 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 ## 🚀 Featured Projects
 
 ### 💬 [MultiGPT](https://github.com/harshrajput4343/MultiGPT) —  Multimodal LLM Router with Full-Stack Chat Interface
-##  Live Link [Multigpt](https://multigpt.vercel.app/)
+#### LiveLink:  [Multigpt](https://multigpt.vercel.app/)
 **Tech Stack:** React 19, TypeScript, Supabase, PostgreSQL, OpenRouter API, Zustand, Tailwind CSS  
 - Architected intelligent chat platform routing queries across **6 AI models** (Gemma, Nemotron, GLM)
 - Built full-stack app with **JWT authentication** and **Row-Level Security** policies
@@ -64,6 +64,7 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 - Features: tag search, markdown rendering, syntax-highlighted code blocks, sharing
 
 ### 📋 [FlowLoG](https://github.com/harshrajput4343/FlowLoG) — Full-Stack Kanban Project Management & Task Tracking Platform
+#### LiveLink:  [Flowlog](https://flowlogwork.me)
 **Tech Stack:** Next.js 14, TypeScript, Express.js, Prisma ORM, PostgreSQL  
 - Built Kanban board with Next.js 14, TypeScript, integrated drag-and-drop and real-time task management.
 - Architected RESTful APIs with Express.js and Prisma ORM for relational data across boards and cards.
@@ -84,6 +85,7 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 - Built an interactive dashboard with multi-model rotation, retry and fallback logic ensuring 99%+ query reliability
   
 ### 🏥 [AI-Powered Medical Chatbot](https://github.com/harshrajput4343/Medical-Chatbot-GenAi) — LLM-Driven Healthcare Assistant with RAG and API Deployment
+#### LiveLink:  [Flowlog](https://harshmedbot.duckdns.org/)
 LLM-Driven Healthcare Assistant with RAG and API Deployment
 **Tech Stack:** GPT-4, Gemini, LangChain, Pinecone, Flask, AWS  
 - Built production-grade healthcare assistant with **RAG** and **Pinecone** vector search
