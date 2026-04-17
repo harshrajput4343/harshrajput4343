@@ -56,6 +56,7 @@ Currently working as a **Research Assistant** at IIIT Sri City, deploying produc
 ## 🚀 Featured Projects
 
 ### 💬 [MultiGPT](https://github.com/harshrajput4343/MultiGPT) —  Multimodal LLM Router with Full-Stack Chat Interface
+##  Live Link [Multigpt](https://multigpt.vercel.app/)
 **Tech Stack:** React 19, TypeScript, Supabase, PostgreSQL, OpenRouter API, Zustand, Tailwind CSS  
 - Architected intelligent chat platform routing queries across **6 AI models** (Gemma, Nemotron, GLM)
 - Built full-stack app with **JWT authentication** and **Row-Level Security** policies
